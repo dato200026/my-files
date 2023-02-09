@@ -1,0 +1,31 @@
+body{
+    text-align:center;
+    background-color:chartreuse;
+    color:brown;
+}
+h1,h2,h4{
+    color:blueviolet
+}
+img{
+    width:500px;
+    height:400px;
+}
+p{
+    width:1200px;
+    margin:auto;
+}
+div{
+    width:800px;
+    margin:auto;
+}
+ul{
+    text-align:left;
+}
+ul img{
+    vertical-align:top;
+    
+}
+.janashia{
+    width:300px;
+    height:300px;
+}
